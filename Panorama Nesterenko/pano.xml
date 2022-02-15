@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="18105" hideabout="1" appversion="6.1.14">
+  <input overlap="1" width="2000" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/gallary_nesterenko_fb/c%c_l%r_%y_%x.jpg" levelingpitch="0" height="2000" levelingroll="0">
+    <level predecode="0" width="2000" preload="0" height="2000"/>
+    <level predecode="0" width="1000" preload="0" height="1000"/>
+    <level predecode="1" width="500" preload="1" height="500"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start fov="70" projection="4" tilt="0" pan="0"/>
+    <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+    <min tilt="-90" fovpixel="1" pan="0"/>
+    <max fov="70" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360" pan="360"/>
+  </view>
+  <userdata tags="nonexistgallery_nesterenko" copyright="" source="" latitude="" nodeid="node1" title="" info="" longitude="" heading="0" description="" author="" datetime="06.02.2022 20:12" comment="" customnodeid=""/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label enabled="1" background="1" width="180" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" textalpha="1" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" height="20" backgroundcolor="0xffffff"/>
+    <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+  </hotspots>
+  <media>
+    <image roty="37.000" fov="6.800" width="2405" clickmode="1" id="Element01" stretch="1.000" handcursor="1" tilt="2.130" rotz="-2.000" pan="-228.840" rotx="3.000" height="3601">
+      <source url="media/01.jpg"/>
+    </image>
+    <image roty="24.000" fov="7.900" width="2537" clickmode="1" id="Element02" stretch="0.990" handcursor="1" tilt="2.520" rotz="-1.000" pan="-244.200" rotx="3.000" height="3830">
+      <source url="media/02.jpg"/>
+    </image>
+    <image roty="0.000" fov="8.510" width="2382" clickmode="1" id="Element03" stretch="1.000" handcursor="1" tilt="2.690" rotz="0.000" pan="-263.960" rotx="0.000" height="3590">
+      <source url="media/03.jpg"/>
+    </image>
+    <image roty="-20.000" fov="8.140" width="2379" clickmode="1" id="Element04" stretch="0.990" handcursor="1" tilt="2.510" rotz="1.000" pan="-284.370" rotx="4.000" height="3597">
+      <source url="media/04.jpg"/>
+    </image>
+    <image roty="-43.000" fov="6.070" width="1427" clickmode="1" id="Element05" stretch="1.000" handcursor="1" tilt="1.930" rotz="2.000" pan="-310.170" rotx="3.000" height="2160">
+      <source url="media/05.jpg"/>
+    </image>
+    <image roty="-55.000" fov="5.330" width="1430" clickmode="1" id="Element06" stretch="0.960" handcursor="1" tilt="1.600" rotz="2.000" pan="-319.280" rotx="3.000" height="2160">
+      <source url="media/06.jpg"/>
+    </image>
+    <image roty="12.000" fov="5.370" width="1428" clickmode="1" id="Element07" stretch="1.000" handcursor="1" tilt="1.580" rotz="0.000" pan="-341.990" rotx="0.000" height="2160">
+      <source url="media/07.jpg"/>
+    </image>
+    <image roty="0.000" fov="5.580" width="1428" clickmode="1" id="Element08" stretch="1.000" handcursor="1" tilt="1.720" rotz="0.000" pan="-355.160" rotx="0.000" height="2160">
+      <source url="media/08.jpg"/>
+    </image>
+    <image roty="-14.000" fov="5.580" width="1426" clickmode="1" id="Element09" stretch="0.970" handcursor="1" tilt="1.630" rotz="0.000" pan="-8.430" rotx="0.000" height="2160">
+      <source url="media/09.jpg"/>
+    </image>
+    <image roty="-21.000" fov="4.970" width="1430" clickmode="1" id="Element10" stretch="1.000" handcursor="1" tilt="1.520" rotz="0.000" pan="-20.410" rotx="0.000" height="2160">
+      <source url="media/10.jpg"/>
+    </image>
+    <image roty="-41.000" fov="4.840" width="1424" clickmode="1" id="Element11" stretch="0.930" handcursor="1" tilt="1.350" rotz="1.000" pan="-30.560" rotx="2.000" height="2160">
+      <source url="media/11.jpg"/>
+    </image>
+    <image roty="34.000" fov="4.230" width="1431" clickmode="1" id="Element12" stretch="1.000" handcursor="1" tilt="1.250" rotz="-1.000" pan="-52.620" rotx="1.000" height="2160">
+      <source url="media/12.jpg"/>
+    </image>
+    <image roty="24.000" fov="4.720" width="1428" clickmode="1" id="Element13" stretch="0.980" handcursor="1" tilt="1.420" rotz="0.000" pan="-62.060" rotx="0.000" height="2160">
+      <source url="media/13.jpg"/>
+    </image>
+    <image roty="13.000" fov="4.840" width="1431" clickmode="1" id="Element14" stretch="1.000" handcursor="1" tilt="1.500" rotz="0.000" pan="-73.070" rotx="0.000" height="2160">
+      <source url="media/14.jpg"/>
+    </image>
+    <image roty="0.000" fov="5.010" width="1431" clickmode="1" id="Element15" stretch="1.000" handcursor="1" tilt="1.560" rotz="0.000" pan="-85.140" rotx="0.000" height="2160">
+      <source url="media/15.jpg"/>
+    </image>
+    <image roty="57.000" fov="4.480" width="1431" clickmode="1" id="Element16" stretch="0.930" handcursor="1" tilt="1.280" rotz="-2.000" pan="-122.710" rotx="2.000" height="2160">
+      <source url="media/16.jpg"/>
+    </image>
+    <image roty="47.000" fov="4.840" width="1431" clickmode="1" id="Element17" stretch="1.000" handcursor="1" tilt="1.480" rotz="-1.000" pan="-129.720" rotx="1.000" height="2160">
+      <source url="media/17.jpg"/>
+    </image>
+  </media>
+  <transition enabled="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" zoomout="0" softedge="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control dblclickfullscreen="0" sensitivity="8" contextvr="0" lockedkeyboard="0" contextfullscreen="0" speedwheel="1" invertcontrol="1" contextprojections="0" invertwheel="0" rubberband="0" lockedmouse="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0">
+    <menulink text="Разработка виртуальных туров " url="https://hi360v.com"/>
+  </control>
+</panorama>
